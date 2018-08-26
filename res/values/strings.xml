@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Alarm</string>
+    <string name="hello">hello</string>
+    <string name="setTimeOpen">setTimeOpen</string>
+    <string name="setTimeClose">setTimeClose</string>
+    <string name="cancelButton">cancelButton</string>
+
+</resources>
